@@ -1,2 +1,2 @@
-# Photography-portpolio-tutorial
-Photography-portpolio tutorial
+# Photography-portpolio
+Photography-portpolio 
